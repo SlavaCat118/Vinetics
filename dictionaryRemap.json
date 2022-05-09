@@ -1,0 +1,3941 @@
+{
+    "author": [
+        "author"
+    ],
+    "comments": [
+        "comments"
+    ],
+    "macro1": [
+        "macro1"
+    ],
+    "macro2": [
+        "macro2"
+    ],
+    "macro3": [
+        "macro3"
+    ],
+    "macro4": [
+        "macro4"
+    ],
+    "preset_style": [
+        "preset_style"
+    ],
+    "beats_per_minute": [
+        "settings",
+        "beats_per_minute"
+    ],
+    "bypass": [
+        "settings",
+        "bypass"
+    ],
+    "chorus_cutoff": [
+        "settings",
+        "chorus_cutoff"
+    ],
+    "chorus_delay_1": [
+        "settings",
+        "chorus_delay_1"
+    ],
+    "chorus_delay_2": [
+        "settings",
+        "chorus_delay_2"
+    ],
+    "chorus_dry_wet": [
+        "settings",
+        "chorus_dry_wet"
+    ],
+    "chorus_feedback": [
+        "settings",
+        "chorus_feedback"
+    ],
+    "chorus_frequency": [
+        "settings",
+        "chorus_frequency"
+    ],
+    "chorus_mod_depth": [
+        "settings",
+        "chorus_mod_depth"
+    ],
+    "chorus_on": [
+        "settings",
+        "chorus_on"
+    ],
+    "chorus_spread": [
+        "settings",
+        "chorus_spread"
+    ],
+    "chorus_sync": [
+        "settings",
+        "chorus_sync"
+    ],
+    "chorus_tempo": [
+        "settings",
+        "chorus_tempo"
+    ],
+    "chorus_voices": [
+        "settings",
+        "chorus_voices"
+    ],
+    "compressor_attack": [
+        "settings",
+        "compressor_attack"
+    ],
+    "compressor_band_gain": [
+        "settings",
+        "compressor_band_gain"
+    ],
+    "compressor_band_lower_ratio": [
+        "settings",
+        "compressor_band_lower_ratio"
+    ],
+    "compressor_band_lower_threshold": [
+        "settings",
+        "compressor_band_lower_threshold"
+    ],
+    "compressor_band_upper_ratio": [
+        "settings",
+        "compressor_band_upper_ratio"
+    ],
+    "compressor_band_upper_threshold": [
+        "settings",
+        "compressor_band_upper_threshold"
+    ],
+    "compressor_enabled_bands": [
+        "settings",
+        "compressor_enabled_bands"
+    ],
+    "compressor_high_gain": [
+        "settings",
+        "compressor_high_gain"
+    ],
+    "compressor_high_lower_ratio": [
+        "settings",
+        "compressor_high_lower_ratio"
+    ],
+    "compressor_high_lower_threshold": [
+        "settings",
+        "compressor_high_lower_threshold"
+    ],
+    "compressor_high_upper_ratio": [
+        "settings",
+        "compressor_high_upper_ratio"
+    ],
+    "compressor_high_upper_threshold": [
+        "settings",
+        "compressor_high_upper_threshold"
+    ],
+    "compressor_low_gain": [
+        "settings",
+        "compressor_low_gain"
+    ],
+    "compressor_low_lower_ratio": [
+        "settings",
+        "compressor_low_lower_ratio"
+    ],
+    "compressor_low_lower_threshold": [
+        "settings",
+        "compressor_low_lower_threshold"
+    ],
+    "compressor_low_upper_ratio": [
+        "settings",
+        "compressor_low_upper_ratio"
+    ],
+    "compressor_low_upper_threshold": [
+        "settings",
+        "compressor_low_upper_threshold"
+    ],
+    "compressor_mix": [
+        "settings",
+        "compressor_mix"
+    ],
+    "compressor_on": [
+        "settings",
+        "compressor_on"
+    ],
+    "compressor_release": [
+        "settings",
+        "compressor_release"
+    ],
+    "delay_aux_frequency": [
+        "settings",
+        "delay_aux_frequency"
+    ],
+    "delay_aux_sync": [
+        "settings",
+        "delay_aux_sync"
+    ],
+    "delay_aux_tempo": [
+        "settings",
+        "delay_aux_tempo"
+    ],
+    "delay_dry_wet": [
+        "settings",
+        "delay_dry_wet"
+    ],
+    "delay_feedback": [
+        "settings",
+        "delay_feedback"
+    ],
+    "delay_filter_cutoff": [
+        "settings",
+        "delay_filter_cutoff"
+    ],
+    "delay_filter_spread": [
+        "settings",
+        "delay_filter_spread"
+    ],
+    "delay_frequency": [
+        "settings",
+        "delay_frequency"
+    ],
+    "delay_on": [
+        "settings",
+        "delay_on"
+    ],
+    "delay_style": [
+        "settings",
+        "delay_style"
+    ],
+    "delay_sync": [
+        "settings",
+        "delay_sync"
+    ],
+    "delay_tempo": [
+        "settings",
+        "delay_tempo"
+    ],
+    "distortion_drive": [
+        "settings",
+        "distortion_drive"
+    ],
+    "distortion_filter_blend": [
+        "settings",
+        "distortion_filter_blend"
+    ],
+    "distortion_filter_cutoff": [
+        "settings",
+        "distortion_filter_cutoff"
+    ],
+    "distortion_filter_order": [
+        "settings",
+        "distortion_filter_order"
+    ],
+    "distortion_filter_resonance": [
+        "settings",
+        "distortion_filter_resonance"
+    ],
+    "distortion_mix": [
+        "settings",
+        "distortion_mix"
+    ],
+    "distortion_on": [
+        "settings",
+        "distortion_on"
+    ],
+    "distortion_type": [
+        "settings",
+        "distortion_type"
+    ],
+    "effect_chain_order": [
+        "settings",
+        "effect_chain_order"
+    ],
+    "env_1_attack": [
+        "settings",
+        "env_1_attack"
+    ],
+    "env_1_attack_power": [
+        "settings",
+        "env_1_attack_power"
+    ],
+    "env_1_decay": [
+        "settings",
+        "env_1_decay"
+    ],
+    "env_1_decay_power": [
+        "settings",
+        "env_1_decay_power"
+    ],
+    "env_1_delay": [
+        "settings",
+        "env_1_delay"
+    ],
+    "env_1_hold": [
+        "settings",
+        "env_1_hold"
+    ],
+    "env_1_release": [
+        "settings",
+        "env_1_release"
+    ],
+    "env_1_release_power": [
+        "settings",
+        "env_1_release_power"
+    ],
+    "env_1_sustain": [
+        "settings",
+        "env_1_sustain"
+    ],
+    "env_2_attack": [
+        "settings",
+        "env_2_attack"
+    ],
+    "env_2_attack_power": [
+        "settings",
+        "env_2_attack_power"
+    ],
+    "env_2_decay": [
+        "settings",
+        "env_2_decay"
+    ],
+    "env_2_decay_power": [
+        "settings",
+        "env_2_decay_power"
+    ],
+    "env_2_delay": [
+        "settings",
+        "env_2_delay"
+    ],
+    "env_2_hold": [
+        "settings",
+        "env_2_hold"
+    ],
+    "env_2_release": [
+        "settings",
+        "env_2_release"
+    ],
+    "env_2_release_power": [
+        "settings",
+        "env_2_release_power"
+    ],
+    "env_2_sustain": [
+        "settings",
+        "env_2_sustain"
+    ],
+    "env_3_attack": [
+        "settings",
+        "env_3_attack"
+    ],
+    "env_3_attack_power": [
+        "settings",
+        "env_3_attack_power"
+    ],
+    "env_3_decay": [
+        "settings",
+        "env_3_decay"
+    ],
+    "env_3_decay_power": [
+        "settings",
+        "env_3_decay_power"
+    ],
+    "env_3_delay": [
+        "settings",
+        "env_3_delay"
+    ],
+    "env_3_hold": [
+        "settings",
+        "env_3_hold"
+    ],
+    "env_3_release": [
+        "settings",
+        "env_3_release"
+    ],
+    "env_3_release_power": [
+        "settings",
+        "env_3_release_power"
+    ],
+    "env_3_sustain": [
+        "settings",
+        "env_3_sustain"
+    ],
+    "env_4_attack": [
+        "settings",
+        "env_4_attack"
+    ],
+    "env_4_attack_power": [
+        "settings",
+        "env_4_attack_power"
+    ],
+    "env_4_decay": [
+        "settings",
+        "env_4_decay"
+    ],
+    "env_4_decay_power": [
+        "settings",
+        "env_4_decay_power"
+    ],
+    "env_4_delay": [
+        "settings",
+        "env_4_delay"
+    ],
+    "env_4_hold": [
+        "settings",
+        "env_4_hold"
+    ],
+    "env_4_release": [
+        "settings",
+        "env_4_release"
+    ],
+    "env_4_release_power": [
+        "settings",
+        "env_4_release_power"
+    ],
+    "env_4_sustain": [
+        "settings",
+        "env_4_sustain"
+    ],
+    "env_5_attack": [
+        "settings",
+        "env_5_attack"
+    ],
+    "env_5_attack_power": [
+        "settings",
+        "env_5_attack_power"
+    ],
+    "env_5_decay": [
+        "settings",
+        "env_5_decay"
+    ],
+    "env_5_decay_power": [
+        "settings",
+        "env_5_decay_power"
+    ],
+    "env_5_delay": [
+        "settings",
+        "env_5_delay"
+    ],
+    "env_5_hold": [
+        "settings",
+        "env_5_hold"
+    ],
+    "env_5_release": [
+        "settings",
+        "env_5_release"
+    ],
+    "env_5_release_power": [
+        "settings",
+        "env_5_release_power"
+    ],
+    "env_5_sustain": [
+        "settings",
+        "env_5_sustain"
+    ],
+    "env_6_attack": [
+        "settings",
+        "env_6_attack"
+    ],
+    "env_6_attack_power": [
+        "settings",
+        "env_6_attack_power"
+    ],
+    "env_6_decay": [
+        "settings",
+        "env_6_decay"
+    ],
+    "env_6_decay_power": [
+        "settings",
+        "env_6_decay_power"
+    ],
+    "env_6_delay": [
+        "settings",
+        "env_6_delay"
+    ],
+    "env_6_hold": [
+        "settings",
+        "env_6_hold"
+    ],
+    "env_6_release": [
+        "settings",
+        "env_6_release"
+    ],
+    "env_6_release_power": [
+        "settings",
+        "env_6_release_power"
+    ],
+    "env_6_sustain": [
+        "settings",
+        "env_6_sustain"
+    ],
+    "eq_band_cutoff": [
+        "settings",
+        "eq_band_cutoff"
+    ],
+    "eq_band_gain": [
+        "settings",
+        "eq_band_gain"
+    ],
+    "eq_band_mode": [
+        "settings",
+        "eq_band_mode"
+    ],
+    "eq_band_resonance": [
+        "settings",
+        "eq_band_resonance"
+    ],
+    "eq_high_cutoff": [
+        "settings",
+        "eq_high_cutoff"
+    ],
+    "eq_high_gain": [
+        "settings",
+        "eq_high_gain"
+    ],
+    "eq_high_mode": [
+        "settings",
+        "eq_high_mode"
+    ],
+    "eq_high_resonance": [
+        "settings",
+        "eq_high_resonance"
+    ],
+    "eq_low_cutoff": [
+        "settings",
+        "eq_low_cutoff"
+    ],
+    "eq_low_gain": [
+        "settings",
+        "eq_low_gain"
+    ],
+    "eq_low_mode": [
+        "settings",
+        "eq_low_mode"
+    ],
+    "eq_low_resonance": [
+        "settings",
+        "eq_low_resonance"
+    ],
+    "eq_on": [
+        "settings",
+        "eq_on"
+    ],
+    "filter_1_blend": [
+        "settings",
+        "filter_1_blend"
+    ],
+    "filter_1_blend_transpose": [
+        "settings",
+        "filter_1_blend_transpose"
+    ],
+    "filter_1_cutoff": [
+        "settings",
+        "filter_1_cutoff"
+    ],
+    "filter_1_drive": [
+        "settings",
+        "filter_1_drive"
+    ],
+    "filter_1_filter_input": [
+        "settings",
+        "filter_1_filter_input"
+    ],
+    "filter_1_formant_resonance": [
+        "settings",
+        "filter_1_formant_resonance"
+    ],
+    "filter_1_formant_spread": [
+        "settings",
+        "filter_1_formant_spread"
+    ],
+    "filter_1_formant_transpose": [
+        "settings",
+        "filter_1_formant_transpose"
+    ],
+    "filter_1_formant_x": [
+        "settings",
+        "filter_1_formant_x"
+    ],
+    "filter_1_formant_y": [
+        "settings",
+        "filter_1_formant_y"
+    ],
+    "filter_1_keytrack": [
+        "settings",
+        "filter_1_keytrack"
+    ],
+    "filter_1_mix": [
+        "settings",
+        "filter_1_mix"
+    ],
+    "filter_1_model": [
+        "settings",
+        "filter_1_model"
+    ],
+    "filter_1_on": [
+        "settings",
+        "filter_1_on"
+    ],
+    "filter_1_resonance": [
+        "settings",
+        "filter_1_resonance"
+    ],
+    "filter_1_style": [
+        "settings",
+        "filter_1_style"
+    ],
+    "filter_2_blend": [
+        "settings",
+        "filter_2_blend"
+    ],
+    "filter_2_blend_transpose": [
+        "settings",
+        "filter_2_blend_transpose"
+    ],
+    "filter_2_cutoff": [
+        "settings",
+        "filter_2_cutoff"
+    ],
+    "filter_2_drive": [
+        "settings",
+        "filter_2_drive"
+    ],
+    "filter_2_filter_input": [
+        "settings",
+        "filter_2_filter_input"
+    ],
+    "filter_2_formant_resonance": [
+        "settings",
+        "filter_2_formant_resonance"
+    ],
+    "filter_2_formant_spread": [
+        "settings",
+        "filter_2_formant_spread"
+    ],
+    "filter_2_formant_transpose": [
+        "settings",
+        "filter_2_formant_transpose"
+    ],
+    "filter_2_formant_x": [
+        "settings",
+        "filter_2_formant_x"
+    ],
+    "filter_2_formant_y": [
+        "settings",
+        "filter_2_formant_y"
+    ],
+    "filter_2_keytrack": [
+        "settings",
+        "filter_2_keytrack"
+    ],
+    "filter_2_mix": [
+        "settings",
+        "filter_2_mix"
+    ],
+    "filter_2_model": [
+        "settings",
+        "filter_2_model"
+    ],
+    "filter_2_on": [
+        "settings",
+        "filter_2_on"
+    ],
+    "filter_2_resonance": [
+        "settings",
+        "filter_2_resonance"
+    ],
+    "filter_2_style": [
+        "settings",
+        "filter_2_style"
+    ],
+    "filter_fx_blend": [
+        "settings",
+        "filter_fx_blend"
+    ],
+    "filter_fx_blend_transpose": [
+        "settings",
+        "filter_fx_blend_transpose"
+    ],
+    "filter_fx_cutoff": [
+        "settings",
+        "filter_fx_cutoff"
+    ],
+    "filter_fx_drive": [
+        "settings",
+        "filter_fx_drive"
+    ],
+    "filter_fx_formant_resonance": [
+        "settings",
+        "filter_fx_formant_resonance"
+    ],
+    "filter_fx_formant_spread": [
+        "settings",
+        "filter_fx_formant_spread"
+    ],
+    "filter_fx_formant_transpose": [
+        "settings",
+        "filter_fx_formant_transpose"
+    ],
+    "filter_fx_formant_x": [
+        "settings",
+        "filter_fx_formant_x"
+    ],
+    "filter_fx_formant_y": [
+        "settings",
+        "filter_fx_formant_y"
+    ],
+    "filter_fx_keytrack": [
+        "settings",
+        "filter_fx_keytrack"
+    ],
+    "filter_fx_mix": [
+        "settings",
+        "filter_fx_mix"
+    ],
+    "filter_fx_model": [
+        "settings",
+        "filter_fx_model"
+    ],
+    "filter_fx_on": [
+        "settings",
+        "filter_fx_on"
+    ],
+    "filter_fx_resonance": [
+        "settings",
+        "filter_fx_resonance"
+    ],
+    "filter_fx_style": [
+        "settings",
+        "filter_fx_style"
+    ],
+    "flanger_center": [
+        "settings",
+        "flanger_center"
+    ],
+    "flanger_dry_wet": [
+        "settings",
+        "flanger_dry_wet"
+    ],
+    "flanger_feedback": [
+        "settings",
+        "flanger_feedback"
+    ],
+    "flanger_frequency": [
+        "settings",
+        "flanger_frequency"
+    ],
+    "flanger_mod_depth": [
+        "settings",
+        "flanger_mod_depth"
+    ],
+    "flanger_on": [
+        "settings",
+        "flanger_on"
+    ],
+    "flanger_phase_offset": [
+        "settings",
+        "flanger_phase_offset"
+    ],
+    "flanger_sync": [
+        "settings",
+        "flanger_sync"
+    ],
+    "flanger_tempo": [
+        "settings",
+        "flanger_tempo"
+    ],
+    "legato": [
+        "settings",
+        "legato"
+    ],
+    "lfo_1_delay_time": [
+        "settings",
+        "lfo_1_delay_time"
+    ],
+    "lfo_1_fade_time": [
+        "settings",
+        "lfo_1_fade_time"
+    ],
+    "lfo_1_frequency": [
+        "settings",
+        "lfo_1_frequency"
+    ],
+    "lfo_1_keytrack_transpose": [
+        "settings",
+        "lfo_1_keytrack_transpose"
+    ],
+    "lfo_1_keytrack_tune": [
+        "settings",
+        "lfo_1_keytrack_tune"
+    ],
+    "lfo_1_phase": [
+        "settings",
+        "lfo_1_phase"
+    ],
+    "lfo_1_smooth_mode": [
+        "settings",
+        "lfo_1_smooth_mode"
+    ],
+    "lfo_1_smooth_time": [
+        "settings",
+        "lfo_1_smooth_time"
+    ],
+    "lfo_1_stereo": [
+        "settings",
+        "lfo_1_stereo"
+    ],
+    "lfo_1_sync": [
+        "settings",
+        "lfo_1_sync"
+    ],
+    "lfo_1_sync_type": [
+        "settings",
+        "lfo_1_sync_type"
+    ],
+    "lfo_1_tempo": [
+        "settings",
+        "lfo_1_tempo"
+    ],
+    "lfo_2_delay_time": [
+        "settings",
+        "lfo_2_delay_time"
+    ],
+    "lfo_2_fade_time": [
+        "settings",
+        "lfo_2_fade_time"
+    ],
+    "lfo_2_frequency": [
+        "settings",
+        "lfo_2_frequency"
+    ],
+    "lfo_2_keytrack_transpose": [
+        "settings",
+        "lfo_2_keytrack_transpose"
+    ],
+    "lfo_2_keytrack_tune": [
+        "settings",
+        "lfo_2_keytrack_tune"
+    ],
+    "lfo_2_phase": [
+        "settings",
+        "lfo_2_phase"
+    ],
+    "lfo_2_smooth_mode": [
+        "settings",
+        "lfo_2_smooth_mode"
+    ],
+    "lfo_2_smooth_time": [
+        "settings",
+        "lfo_2_smooth_time"
+    ],
+    "lfo_2_stereo": [
+        "settings",
+        "lfo_2_stereo"
+    ],
+    "lfo_2_sync": [
+        "settings",
+        "lfo_2_sync"
+    ],
+    "lfo_2_sync_type": [
+        "settings",
+        "lfo_2_sync_type"
+    ],
+    "lfo_2_tempo": [
+        "settings",
+        "lfo_2_tempo"
+    ],
+    "lfo_3_delay_time": [
+        "settings",
+        "lfo_3_delay_time"
+    ],
+    "lfo_3_fade_time": [
+        "settings",
+        "lfo_3_fade_time"
+    ],
+    "lfo_3_frequency": [
+        "settings",
+        "lfo_3_frequency"
+    ],
+    "lfo_3_keytrack_transpose": [
+        "settings",
+        "lfo_3_keytrack_transpose"
+    ],
+    "lfo_3_keytrack_tune": [
+        "settings",
+        "lfo_3_keytrack_tune"
+    ],
+    "lfo_3_phase": [
+        "settings",
+        "lfo_3_phase"
+    ],
+    "lfo_3_smooth_mode": [
+        "settings",
+        "lfo_3_smooth_mode"
+    ],
+    "lfo_3_smooth_time": [
+        "settings",
+        "lfo_3_smooth_time"
+    ],
+    "lfo_3_stereo": [
+        "settings",
+        "lfo_3_stereo"
+    ],
+    "lfo_3_sync": [
+        "settings",
+        "lfo_3_sync"
+    ],
+    "lfo_3_sync_type": [
+        "settings",
+        "lfo_3_sync_type"
+    ],
+    "lfo_3_tempo": [
+        "settings",
+        "lfo_3_tempo"
+    ],
+    "lfo_4_delay_time": [
+        "settings",
+        "lfo_4_delay_time"
+    ],
+    "lfo_4_fade_time": [
+        "settings",
+        "lfo_4_fade_time"
+    ],
+    "lfo_4_frequency": [
+        "settings",
+        "lfo_4_frequency"
+    ],
+    "lfo_4_keytrack_transpose": [
+        "settings",
+        "lfo_4_keytrack_transpose"
+    ],
+    "lfo_4_keytrack_tune": [
+        "settings",
+        "lfo_4_keytrack_tune"
+    ],
+    "lfo_4_phase": [
+        "settings",
+        "lfo_4_phase"
+    ],
+    "lfo_4_smooth_mode": [
+        "settings",
+        "lfo_4_smooth_mode"
+    ],
+    "lfo_4_smooth_time": [
+        "settings",
+        "lfo_4_smooth_time"
+    ],
+    "lfo_4_stereo": [
+        "settings",
+        "lfo_4_stereo"
+    ],
+    "lfo_4_sync": [
+        "settings",
+        "lfo_4_sync"
+    ],
+    "lfo_4_sync_type": [
+        "settings",
+        "lfo_4_sync_type"
+    ],
+    "lfo_4_tempo": [
+        "settings",
+        "lfo_4_tempo"
+    ],
+    "lfo_5_delay_time": [
+        "settings",
+        "lfo_5_delay_time"
+    ],
+    "lfo_5_fade_time": [
+        "settings",
+        "lfo_5_fade_time"
+    ],
+    "lfo_5_frequency": [
+        "settings",
+        "lfo_5_frequency"
+    ],
+    "lfo_5_keytrack_transpose": [
+        "settings",
+        "lfo_5_keytrack_transpose"
+    ],
+    "lfo_5_keytrack_tune": [
+        "settings",
+        "lfo_5_keytrack_tune"
+    ],
+    "lfo_5_phase": [
+        "settings",
+        "lfo_5_phase"
+    ],
+    "lfo_5_smooth_mode": [
+        "settings",
+        "lfo_5_smooth_mode"
+    ],
+    "lfo_5_smooth_time": [
+        "settings",
+        "lfo_5_smooth_time"
+    ],
+    "lfo_5_stereo": [
+        "settings",
+        "lfo_5_stereo"
+    ],
+    "lfo_5_sync": [
+        "settings",
+        "lfo_5_sync"
+    ],
+    "lfo_5_sync_type": [
+        "settings",
+        "lfo_5_sync_type"
+    ],
+    "lfo_5_tempo": [
+        "settings",
+        "lfo_5_tempo"
+    ],
+    "lfo_6_delay_time": [
+        "settings",
+        "lfo_6_delay_time"
+    ],
+    "lfo_6_fade_time": [
+        "settings",
+        "lfo_6_fade_time"
+    ],
+    "lfo_6_frequency": [
+        "settings",
+        "lfo_6_frequency"
+    ],
+    "lfo_6_keytrack_transpose": [
+        "settings",
+        "lfo_6_keytrack_transpose"
+    ],
+    "lfo_6_keytrack_tune": [
+        "settings",
+        "lfo_6_keytrack_tune"
+    ],
+    "lfo_6_phase": [
+        "settings",
+        "lfo_6_phase"
+    ],
+    "lfo_6_smooth_mode": [
+        "settings",
+        "lfo_6_smooth_mode"
+    ],
+    "lfo_6_smooth_time": [
+        "settings",
+        "lfo_6_smooth_time"
+    ],
+    "lfo_6_stereo": [
+        "settings",
+        "lfo_6_stereo"
+    ],
+    "lfo_6_sync": [
+        "settings",
+        "lfo_6_sync"
+    ],
+    "lfo_6_sync_type": [
+        "settings",
+        "lfo_6_sync_type"
+    ],
+    "lfo_6_tempo": [
+        "settings",
+        "lfo_6_tempo"
+    ],
+    "lfo_7_delay_time": [
+        "settings",
+        "lfo_7_delay_time"
+    ],
+    "lfo_7_fade_time": [
+        "settings",
+        "lfo_7_fade_time"
+    ],
+    "lfo_7_frequency": [
+        "settings",
+        "lfo_7_frequency"
+    ],
+    "lfo_7_keytrack_transpose": [
+        "settings",
+        "lfo_7_keytrack_transpose"
+    ],
+    "lfo_7_keytrack_tune": [
+        "settings",
+        "lfo_7_keytrack_tune"
+    ],
+    "lfo_7_phase": [
+        "settings",
+        "lfo_7_phase"
+    ],
+    "lfo_7_smooth_mode": [
+        "settings",
+        "lfo_7_smooth_mode"
+    ],
+    "lfo_7_smooth_time": [
+        "settings",
+        "lfo_7_smooth_time"
+    ],
+    "lfo_7_stereo": [
+        "settings",
+        "lfo_7_stereo"
+    ],
+    "lfo_7_sync": [
+        "settings",
+        "lfo_7_sync"
+    ],
+    "lfo_7_sync_type": [
+        "settings",
+        "lfo_7_sync_type"
+    ],
+    "lfo_7_tempo": [
+        "settings",
+        "lfo_7_tempo"
+    ],
+    "lfo_8_delay_time": [
+        "settings",
+        "lfo_8_delay_time"
+    ],
+    "lfo_8_fade_time": [
+        "settings",
+        "lfo_8_fade_time"
+    ],
+    "lfo_8_frequency": [
+        "settings",
+        "lfo_8_frequency"
+    ],
+    "lfo_8_keytrack_transpose": [
+        "settings",
+        "lfo_8_keytrack_transpose"
+    ],
+    "lfo_8_keytrack_tune": [
+        "settings",
+        "lfo_8_keytrack_tune"
+    ],
+    "lfo_8_phase": [
+        "settings",
+        "lfo_8_phase"
+    ],
+    "lfo_8_smooth_mode": [
+        "settings",
+        "lfo_8_smooth_mode"
+    ],
+    "lfo_8_smooth_time": [
+        "settings",
+        "lfo_8_smooth_time"
+    ],
+    "lfo_8_stereo": [
+        "settings",
+        "lfo_8_stereo"
+    ],
+    "lfo_8_sync": [
+        "settings",
+        "lfo_8_sync"
+    ],
+    "lfo_8_sync_type": [
+        "settings",
+        "lfo_8_sync_type"
+    ],
+    "lfo_8_tempo": [
+        "settings",
+        "lfo_8_tempo"
+    ],
+    "lfo1": [
+        "settings",
+        "lfos",
+        0  
+    ],
+    "lfo2": [
+        "settings",
+        "lfos",
+        1  
+    ],
+    "lfo3": [
+        "settings",
+        "lfos",
+        2  
+    ],
+    "lfo4": [
+        "settings",
+        "lfos",
+        3  
+    ],
+    "lfo5": [
+        "settings",
+        "lfos",
+        4  
+    ],
+    "lfo6": [
+        "settings",
+        "lfos",
+        5 
+    ],
+    "lfo7": [
+        "settings",
+        "lfos",
+        6 
+    ],
+    "lfo8": [
+        "settings",
+        "lfos",
+        7  
+    ],
+    "macro_control_1": [
+        "settings",
+        "macro_control_1"
+    ],
+    "macro_control_2": [
+        "settings",
+        "macro_control_2"
+    ],
+    "macro_control_3": [
+        "settings",
+        "macro_control_3"
+    ],
+    "macro_control_4": [
+        "settings",
+        "macro_control_4"
+    ],
+    "mod_wheel": [
+        "settings",
+        "mod_wheel"
+    ],
+    "modulation_1_source": [
+        "settings",
+        "modulations",
+        0,
+        "source"
+    ],
+    "modulation_1_destination": [
+        "settings",
+        "modulations",
+        0,
+        "destination"
+    ],
+    "modulation_2_source": [
+        "settings",
+        "modulations",
+        1,
+        "source"
+    ],
+    "modulation_2_destination": [
+        "settings",
+        "modulations",
+        1,
+        "destination"
+    ],
+    "modulation_3_source": [
+        "settings",
+        "modulations",
+        2,
+        "source"
+    ],
+    "modulation_3_destination": [
+        "settings",
+        "modulations",
+        2,
+        "destination"
+    ],
+    "modulation_4_source": [
+        "settings",
+        "modulations",
+        3,
+        "source"
+    ],
+    "modulation_4_destination": [
+        "settings",
+        "modulations",
+        3,
+        "destination"
+    ],
+    "modulation_5_source": [
+        "settings",
+        "modulations",
+        4,
+        "source"
+    ],
+    "modulation_5_destination": [
+        "settings",
+        "modulations",
+        4,
+        "destination"
+    ],
+    "modulation_6_source": [
+        "settings",
+        "modulations",
+        5,
+        "source"
+    ],
+    "modulation_6_destination": [
+        "settings",
+        "modulations",
+        5,
+        "destination"
+    ],
+    "modulation_7_source": [
+        "settings",
+        "modulations",
+        6,
+        "source"
+    ],
+    "modulation_7_destination": [
+        "settings",
+        "modulations",
+        6,
+        "destination"
+    ],
+    "modulation_8_source": [
+        "settings",
+        "modulations",
+        7,
+        "source"
+    ],
+    "modulation_8_destination": [
+        "settings",
+        "modulations",
+        7,
+        "destination"
+    ],
+    "modulation_9_source": [
+        "settings",
+        "modulations",
+        8,
+        "source"
+    ],
+    "modulation_9_destination": [
+        "settings",
+        "modulations",
+        8,
+        "destination"
+    ],
+    "modulation_10_source": [
+        "settings",
+        "modulations",
+        9,
+        "source"
+    ],
+    "modulation_10_destination": [
+        "settings",
+        "modulations",
+        9,
+        "destination"
+    ],
+    "modulation_11_source": [
+        "settings",
+        "modulations",
+        10,
+        "source"
+    ],
+    "modulation_11_destination": [
+        "settings",
+        "modulations",
+        10,
+        "destination"
+    ],
+    "modulation_12_source": [
+        "settings",
+        "modulations",
+        11,
+        "source"
+    ],
+    "modulation_12_destination": [
+        "settings",
+        "modulations",
+        11,
+        "destination"
+    ],
+    "modulation_13_source": [
+        "settings",
+        "modulations",
+        12,
+        "source"
+    ],
+    "modulation_13_destination": [
+        "settings",
+        "modulations",
+        12,
+        "destination"
+    ],
+    "modulation_14_source": [
+        "settings",
+        "modulations",
+        13,
+        "source"
+    ],
+    "modulation_14_destination": [
+        "settings",
+        "modulations",
+        13,
+        "destination"
+    ],
+    "modulation_15_source": [
+        "settings",
+        "modulations",
+        14,
+        "source"
+    ],
+    "modulation_15_destination": [
+        "settings",
+        "modulations",
+        14,
+        "destination"
+    ],
+    "modulation_16_source": [
+        "settings",
+        "modulations",
+        15,
+        "source"
+    ],
+    "modulation_16_destination": [
+        "settings",
+        "modulations",
+        15,
+        "destination"
+    ],
+    "modulation_17_source": [
+        "settings",
+        "modulations",
+        16,
+        "source"
+    ],
+    "modulation_17_destination": [
+        "settings",
+        "modulations",
+        16,
+        "destination"
+    ],
+    "modulation_18_source": [
+        "settings",
+        "modulations",
+        17,
+        "source"
+    ],
+    "modulation_18_destination": [
+        "settings",
+        "modulations",
+        17,
+        "destination"
+    ],
+    "modulation_19_source": [
+        "settings",
+        "modulations",
+        18,
+        "source"
+    ],
+    "modulation_19_destination": [
+        "settings",
+        "modulations",
+        18,
+        "destination"
+    ],
+    "modulation_20_source": [
+        "settings",
+        "modulations",
+        19,
+        "source"
+    ],
+    "modulation_20_destination": [
+        "settings",
+        "modulations",
+        19,
+        "destination"
+    ],
+    "modulation_21_source": [
+        "settings",
+        "modulations",
+        20,
+        "source"
+    ],
+    "modulation_21_destination": [
+        "settings",
+        "modulations",
+        20,
+        "destination"
+    ],
+    "modulation_22_source": [
+        "settings",
+        "modulations",
+        21,
+        "source"
+    ],
+    "modulation_22_destination": [
+        "settings",
+        "modulations",
+        21,
+        "destination"
+    ],
+    "modulation_23_source": [
+        "settings",
+        "modulations",
+        22,
+        "source"
+    ],
+    "modulation_23_destination": [
+        "settings",
+        "modulations",
+        22,
+        "destination"
+    ],
+    "modulation_24_source": [
+        "settings",
+        "modulations",
+        23,
+        "source"
+    ],
+    "modulation_24_destination": [
+        "settings",
+        "modulations",
+        23,
+        "destination"
+    ],
+    "modulation_25_source": [
+        "settings",
+        "modulations",
+        24,
+        "source"
+    ],
+    "modulation_25_destination": [
+        "settings",
+        "modulations",
+        24,
+        "destination"
+    ],
+    "modulation_26_source": [
+        "settings",
+        "modulations",
+        25,
+        "source"
+    ],
+    "modulation_26_destination": [
+        "settings",
+        "modulations",
+        25,
+        "destination"
+    ],
+    "modulation_27_source": [
+        "settings",
+        "modulations",
+        26,
+        "source"
+    ],
+    "modulation_27_destination": [
+        "settings",
+        "modulations",
+        26,
+        "destination"
+    ],
+    "modulation_28_source": [
+        "settings",
+        "modulations",
+        27,
+        "source"
+    ],
+    "modulation_28_destination": [
+        "settings",
+        "modulations",
+        27,
+        "destination"
+    ],
+    "modulation_29_source": [
+        "settings",
+        "modulations",
+        28,
+        "source"
+    ],
+    "modulation_29_destination": [
+        "settings",
+        "modulations",
+        28,
+        "destination"
+    ],
+    "modulation_30_source": [
+        "settings",
+        "modulations",
+        29,
+        "source"
+    ],
+    "modulation_30_destination": [
+        "settings",
+        "modulations",
+        29,
+        "destination"
+    ],
+    "modulation_31_source": [
+        "settings",
+        "modulations",
+        30,
+        "source"
+    ],
+    "modulation_31_destination": [
+        "settings",
+        "modulations",
+        30,
+        "destination"
+    ],
+    "modulation_32_source": [
+        "settings",
+        "modulations",
+        31,
+        "source"
+    ],
+    "modulation_32_destination": [
+        "settings",
+        "modulations",
+        31,
+        "destination"
+    ],
+    "modulation_33_source": [
+        "settings",
+        "modulations",
+        32,
+        "source"
+    ],
+    "modulation_33_destination": [
+        "settings",
+        "modulations",
+        32,
+        "destination"
+    ],
+    "modulation_34_source": [
+        "settings",
+        "modulations",
+        33,
+        "source"
+    ],
+    "modulation_34_destination": [
+        "settings",
+        "modulations",
+        33,
+        "destination"
+    ],
+    "modulation_35_source": [
+        "settings",
+        "modulations",
+        34,
+        "source"
+    ],
+    "modulation_35_destination": [
+        "settings",
+        "modulations",
+        34,
+        "destination"
+    ],
+    "modulation_36_source": [
+        "settings",
+        "modulations",
+        35,
+        "source"
+    ],
+    "modulation_36_destination": [
+        "settings",
+        "modulations",
+        35,
+        "destination"
+    ],
+    "modulation_37_source": [
+        "settings",
+        "modulations",
+        36,
+        "source"
+    ],
+    "modulation_37_destination": [
+        "settings",
+        "modulations",
+        36,
+        "destination"
+    ],
+    "modulation_38_source": [
+        "settings",
+        "modulations",
+        37,
+        "source"
+    ],
+    "modulation_38_destination": [
+        "settings",
+        "modulations",
+        37,
+        "destination"
+    ],
+    "modulation_39_source": [
+        "settings",
+        "modulations",
+        38,
+        "source"
+    ],
+    "modulation_39_destination": [
+        "settings",
+        "modulations",
+        38,
+        "destination"
+    ],
+    "modulation_40_source": [
+        "settings",
+        "modulations",
+        39,
+        "source"
+    ],
+    "modulation_40_destination": [
+        "settings",
+        "modulations",
+        39,
+        "destination"
+    ],
+    "modulation_41_source": [
+        "settings",
+        "modulations",
+        40,
+        "source"
+    ],
+    "modulation_41_destination": [
+        "settings",
+        "modulations",
+        40,
+        "destination"
+    ],
+    "modulation_42_source": [
+        "settings",
+        "modulations",
+        41,
+        "source"
+    ],
+    "modulation_42_destination": [
+        "settings",
+        "modulations",
+        41,
+        "destination"
+    ],
+    "modulation_43_source": [
+        "settings",
+        "modulations",
+        42,
+        "source"
+    ],
+    "modulation_43_destination": [
+        "settings",
+        "modulations",
+        42,
+        "destination"
+    ],
+    "modulation_44_source": [
+        "settings",
+        "modulations",
+        43,
+        "source"
+    ],
+    "modulation_44_destination": [
+        "settings",
+        "modulations",
+        43,
+        "destination"
+    ],
+    "modulation_45_source": [
+        "settings",
+        "modulations",
+        44,
+        "source"
+    ],
+    "modulation_45_destination": [
+        "settings",
+        "modulations",
+        44,
+        "destination"
+    ],
+    "modulation_46_source": [
+        "settings",
+        "modulations",
+        45,
+        "source"
+    ],
+    "modulation_46_destination": [
+        "settings",
+        "modulations",
+        45,
+        "destination"
+    ],
+    "modulation_47_source": [
+        "settings",
+        "modulations",
+        46,
+        "source"
+    ],
+    "modulation_47_destination": [
+        "settings",
+        "modulations",
+        46,
+        "destination"
+    ],
+    "modulation_48_source": [
+        "settings",
+        "modulations",
+        47,
+        "source"
+    ],
+    "modulation_48_destination": [
+        "settings",
+        "modulations",
+        47,
+        "destination"
+    ],
+    "modulation_49_source": [
+        "settings",
+        "modulations",
+        48,
+        "source"
+    ],
+    "modulation_49_destination": [
+        "settings",
+        "modulations",
+        48,
+        "destination"
+    ],
+    "modulation_50_source": [
+        "settings",
+        "modulations",
+        49,
+        "source"
+    ],
+    "modulation_50_destination": [
+        "settings",
+        "modulations",
+        49,
+        "destination"
+    ],
+    "modulation_51_source": [
+        "settings",
+        "modulations",
+        50,
+        "source"
+    ],
+    "modulation_51_destination": [
+        "settings",
+        "modulations",
+        50,
+        "destination"
+    ],
+    "modulation_52_source": [
+        "settings",
+        "modulations",
+        51,
+        "source"
+    ],
+    "modulation_52_destination": [
+        "settings",
+        "modulations",
+        51,
+        "destination"
+    ],
+    "modulation_53_source": [
+        "settings",
+        "modulations",
+        52,
+        "source"
+    ],
+    "modulation_53_destination": [
+        "settings",
+        "modulations",
+        52,
+        "destination"
+    ],
+    "modulation_54_source": [
+        "settings",
+        "modulations",
+        53,
+        "source"
+    ],
+    "modulation_54_destination": [
+        "settings",
+        "modulations",
+        53,
+        "destination"
+    ],
+    "modulation_55_source": [
+        "settings",
+        "modulations",
+        54,
+        "source"
+    ],
+    "modulation_55_destination": [
+        "settings",
+        "modulations",
+        54,
+        "destination"
+    ],
+    "modulation_56_source": [
+        "settings",
+        "modulations",
+        55,
+        "source"
+    ],
+    "modulation_56_destination": [
+        "settings",
+        "modulations",
+        55,
+        "destination"
+    ],
+    "modulation_57_source": [
+        "settings",
+        "modulations",
+        56,
+        "source"
+    ],
+    "modulation_57_destination": [
+        "settings",
+        "modulations",
+        56,
+        "destination"
+    ],
+    "modulation_58_source": [
+        "settings",
+        "modulations",
+        57,
+        "source"
+    ],
+    "modulation_58_destination": [
+        "settings",
+        "modulations",
+        57,
+        "destination"
+    ],
+    "modulation_59_source": [
+        "settings",
+        "modulations",
+        58,
+        "source"
+    ],
+    "modulation_59_destination": [
+        "settings",
+        "modulations",
+        58,
+        "destination"
+    ],
+    "modulation_60_source": [
+        "settings",
+        "modulations",
+        59,
+        "source"
+    ],
+    "modulation_60_destination": [
+        "settings",
+        "modulations",
+        59,
+        "destination"
+    ],
+    "modulation_61_source": [
+        "settings",
+        "modulations",
+        60,
+        "source"
+    ],
+    "modulation_61_destination": [
+        "settings",
+        "modulations",
+        60,
+        "destination"
+    ],
+    "modulation_62_source": [
+        "settings",
+        "modulations",
+        61,
+        "source"
+    ],
+    "modulation_62_destination": [
+        "settings",
+        "modulations",
+        61,
+        "destination"
+    ],
+    "modulation_63_source": [
+        "settings",
+        "modulations",
+        62,
+        "source"
+    ],
+    "modulation_63_destination": [
+        "settings",
+        "modulations",
+        62,
+        "destination"
+    ],
+    "modulation_64_source": [
+        "settings",
+        "modulations",
+        63,
+        "source"
+    ],
+    "modulation_64_destination": [
+        "settings",
+        "modulations",
+        63,
+        "destination"
+    ],
+    "modulation_10_amount": [
+        "settings",
+        "modulation_10_amount"
+    ],
+    "modulation_10_bipolar": [
+        "settings",
+        "modulation_10_bipolar"
+    ],
+    "modulation_10_bypass": [
+        "settings",
+        "modulation_10_bypass"
+    ],
+    "modulation_10_power": [
+        "settings",
+        "modulation_10_power"
+    ],
+    "modulation_10_stereo": [
+        "settings",
+        "modulation_10_stereo"
+    ],
+    "modulation_11_amount": [
+        "settings",
+        "modulation_11_amount"
+    ],
+    "modulation_11_bipolar": [
+        "settings",
+        "modulation_11_bipolar"
+    ],
+    "modulation_11_bypass": [
+        "settings",
+        "modulation_11_bypass"
+    ],
+    "modulation_11_power": [
+        "settings",
+        "modulation_11_power"
+    ],
+    "modulation_11_stereo": [
+        "settings",
+        "modulation_11_stereo"
+    ],
+    "modulation_12_amount": [
+        "settings",
+        "modulation_12_amount"
+    ],
+    "modulation_12_bipolar": [
+        "settings",
+        "modulation_12_bipolar"
+    ],
+    "modulation_12_bypass": [
+        "settings",
+        "modulation_12_bypass"
+    ],
+    "modulation_12_power": [
+        "settings",
+        "modulation_12_power"
+    ],
+    "modulation_12_stereo": [
+        "settings",
+        "modulation_12_stereo"
+    ],
+    "modulation_13_amount": [
+        "settings",
+        "modulation_13_amount"
+    ],
+    "modulation_13_bipolar": [
+        "settings",
+        "modulation_13_bipolar"
+    ],
+    "modulation_13_bypass": [
+        "settings",
+        "modulation_13_bypass"
+    ],
+    "modulation_13_power": [
+        "settings",
+        "modulation_13_power"
+    ],
+    "modulation_13_stereo": [
+        "settings",
+        "modulation_13_stereo"
+    ],
+    "modulation_14_amount": [
+        "settings",
+        "modulation_14_amount"
+    ],
+    "modulation_14_bipolar": [
+        "settings",
+        "modulation_14_bipolar"
+    ],
+    "modulation_14_bypass": [
+        "settings",
+        "modulation_14_bypass"
+    ],
+    "modulation_14_power": [
+        "settings",
+        "modulation_14_power"
+    ],
+    "modulation_14_stereo": [
+        "settings",
+        "modulation_14_stereo"
+    ],
+    "modulation_15_amount": [
+        "settings",
+        "modulation_15_amount"
+    ],
+    "modulation_15_bipolar": [
+        "settings",
+        "modulation_15_bipolar"
+    ],
+    "modulation_15_bypass": [
+        "settings",
+        "modulation_15_bypass"
+    ],
+    "modulation_15_power": [
+        "settings",
+        "modulation_15_power"
+    ],
+    "modulation_15_stereo": [
+        "settings",
+        "modulation_15_stereo"
+    ],
+    "modulation_16_amount": [
+        "settings",
+        "modulation_16_amount"
+    ],
+    "modulation_16_bipolar": [
+        "settings",
+        "modulation_16_bipolar"
+    ],
+    "modulation_16_bypass": [
+        "settings",
+        "modulation_16_bypass"
+    ],
+    "modulation_16_power": [
+        "settings",
+        "modulation_16_power"
+    ],
+    "modulation_16_stereo": [
+        "settings",
+        "modulation_16_stereo"
+    ],
+    "modulation_17_amount": [
+        "settings",
+        "modulation_17_amount"
+    ],
+    "modulation_17_bipolar": [
+        "settings",
+        "modulation_17_bipolar"
+    ],
+    "modulation_17_bypass": [
+        "settings",
+        "modulation_17_bypass"
+    ],
+    "modulation_17_power": [
+        "settings",
+        "modulation_17_power"
+    ],
+    "modulation_17_stereo": [
+        "settings",
+        "modulation_17_stereo"
+    ],
+    "modulation_18_amount": [
+        "settings",
+        "modulation_18_amount"
+    ],
+    "modulation_18_bipolar": [
+        "settings",
+        "modulation_18_bipolar"
+    ],
+    "modulation_18_bypass": [
+        "settings",
+        "modulation_18_bypass"
+    ],
+    "modulation_18_power": [
+        "settings",
+        "modulation_18_power"
+    ],
+    "modulation_18_stereo": [
+        "settings",
+        "modulation_18_stereo"
+    ],
+    "modulation_19_amount": [
+        "settings",
+        "modulation_19_amount"
+    ],
+    "modulation_19_bipolar": [
+        "settings",
+        "modulation_19_bipolar"
+    ],
+    "modulation_19_bypass": [
+        "settings",
+        "modulation_19_bypass"
+    ],
+    "modulation_19_power": [
+        "settings",
+        "modulation_19_power"
+    ],
+    "modulation_19_stereo": [
+        "settings",
+        "modulation_19_stereo"
+    ],
+    "modulation_1_amount": [
+        "settings",
+        "modulation_1_amount"
+    ],
+    "modulation_1_bipolar": [
+        "settings",
+        "modulation_1_bipolar"
+    ],
+    "modulation_1_bypass": [
+        "settings",
+        "modulation_1_bypass"
+    ],
+    "modulation_1_power": [
+        "settings",
+        "modulation_1_power"
+    ],
+    "modulation_1_stereo": [
+        "settings",
+        "modulation_1_stereo"
+    ],
+    "modulation_20_amount": [
+        "settings",
+        "modulation_20_amount"
+    ],
+    "modulation_20_bipolar": [
+        "settings",
+        "modulation_20_bipolar"
+    ],
+    "modulation_20_bypass": [
+        "settings",
+        "modulation_20_bypass"
+    ],
+    "modulation_20_power": [
+        "settings",
+        "modulation_20_power"
+    ],
+    "modulation_20_stereo": [
+        "settings",
+        "modulation_20_stereo"
+    ],
+    "modulation_21_amount": [
+        "settings",
+        "modulation_21_amount"
+    ],
+    "modulation_21_bipolar": [
+        "settings",
+        "modulation_21_bipolar"
+    ],
+    "modulation_21_bypass": [
+        "settings",
+        "modulation_21_bypass"
+    ],
+    "modulation_21_power": [
+        "settings",
+        "modulation_21_power"
+    ],
+    "modulation_21_stereo": [
+        "settings",
+        "modulation_21_stereo"
+    ],
+    "modulation_22_amount": [
+        "settings",
+        "modulation_22_amount"
+    ],
+    "modulation_22_bipolar": [
+        "settings",
+        "modulation_22_bipolar"
+    ],
+    "modulation_22_bypass": [
+        "settings",
+        "modulation_22_bypass"
+    ],
+    "modulation_22_power": [
+        "settings",
+        "modulation_22_power"
+    ],
+    "modulation_22_stereo": [
+        "settings",
+        "modulation_22_stereo"
+    ],
+    "modulation_23_amount": [
+        "settings",
+        "modulation_23_amount"
+    ],
+    "modulation_23_bipolar": [
+        "settings",
+        "modulation_23_bipolar"
+    ],
+    "modulation_23_bypass": [
+        "settings",
+        "modulation_23_bypass"
+    ],
+    "modulation_23_power": [
+        "settings",
+        "modulation_23_power"
+    ],
+    "modulation_23_stereo": [
+        "settings",
+        "modulation_23_stereo"
+    ],
+    "modulation_24_amount": [
+        "settings",
+        "modulation_24_amount"
+    ],
+    "modulation_24_bipolar": [
+        "settings",
+        "modulation_24_bipolar"
+    ],
+    "modulation_24_bypass": [
+        "settings",
+        "modulation_24_bypass"
+    ],
+    "modulation_24_power": [
+        "settings",
+        "modulation_24_power"
+    ],
+    "modulation_24_stereo": [
+        "settings",
+        "modulation_24_stereo"
+    ],
+    "modulation_25_amount": [
+        "settings",
+        "modulation_25_amount"
+    ],
+    "modulation_25_bipolar": [
+        "settings",
+        "modulation_25_bipolar"
+    ],
+    "modulation_25_bypass": [
+        "settings",
+        "modulation_25_bypass"
+    ],
+    "modulation_25_power": [
+        "settings",
+        "modulation_25_power"
+    ],
+    "modulation_25_stereo": [
+        "settings",
+        "modulation_25_stereo"
+    ],
+    "modulation_26_amount": [
+        "settings",
+        "modulation_26_amount"
+    ],
+    "modulation_26_bipolar": [
+        "settings",
+        "modulation_26_bipolar"
+    ],
+    "modulation_26_bypass": [
+        "settings",
+        "modulation_26_bypass"
+    ],
+    "modulation_26_power": [
+        "settings",
+        "modulation_26_power"
+    ],
+    "modulation_26_stereo": [
+        "settings",
+        "modulation_26_stereo"
+    ],
+    "modulation_27_amount": [
+        "settings",
+        "modulation_27_amount"
+    ],
+    "modulation_27_bipolar": [
+        "settings",
+        "modulation_27_bipolar"
+    ],
+    "modulation_27_bypass": [
+        "settings",
+        "modulation_27_bypass"
+    ],
+    "modulation_27_power": [
+        "settings",
+        "modulation_27_power"
+    ],
+    "modulation_27_stereo": [
+        "settings",
+        "modulation_27_stereo"
+    ],
+    "modulation_28_amount": [
+        "settings",
+        "modulation_28_amount"
+    ],
+    "modulation_28_bipolar": [
+        "settings",
+        "modulation_28_bipolar"
+    ],
+    "modulation_28_bypass": [
+        "settings",
+        "modulation_28_bypass"
+    ],
+    "modulation_28_power": [
+        "settings",
+        "modulation_28_power"
+    ],
+    "modulation_28_stereo": [
+        "settings",
+        "modulation_28_stereo"
+    ],
+    "modulation_29_amount": [
+        "settings",
+        "modulation_29_amount"
+    ],
+    "modulation_29_bipolar": [
+        "settings",
+        "modulation_29_bipolar"
+    ],
+    "modulation_29_bypass": [
+        "settings",
+        "modulation_29_bypass"
+    ],
+    "modulation_29_power": [
+        "settings",
+        "modulation_29_power"
+    ],
+    "modulation_29_stereo": [
+        "settings",
+        "modulation_29_stereo"
+    ],
+    "modulation_2_amount": [
+        "settings",
+        "modulation_2_amount"
+    ],
+    "modulation_2_bipolar": [
+        "settings",
+        "modulation_2_bipolar"
+    ],
+    "modulation_2_bypass": [
+        "settings",
+        "modulation_2_bypass"
+    ],
+    "modulation_2_power": [
+        "settings",
+        "modulation_2_power"
+    ],
+    "modulation_2_stereo": [
+        "settings",
+        "modulation_2_stereo"
+    ],
+    "modulation_30_amount": [
+        "settings",
+        "modulation_30_amount"
+    ],
+    "modulation_30_bipolar": [
+        "settings",
+        "modulation_30_bipolar"
+    ],
+    "modulation_30_bypass": [
+        "settings",
+        "modulation_30_bypass"
+    ],
+    "modulation_30_power": [
+        "settings",
+        "modulation_30_power"
+    ],
+    "modulation_30_stereo": [
+        "settings",
+        "modulation_30_stereo"
+    ],
+    "modulation_31_amount": [
+        "settings",
+        "modulation_31_amount"
+    ],
+    "modulation_31_bipolar": [
+        "settings",
+        "modulation_31_bipolar"
+    ],
+    "modulation_31_bypass": [
+        "settings",
+        "modulation_31_bypass"
+    ],
+    "modulation_31_power": [
+        "settings",
+        "modulation_31_power"
+    ],
+    "modulation_31_stereo": [
+        "settings",
+        "modulation_31_stereo"
+    ],
+    "modulation_32_amount": [
+        "settings",
+        "modulation_32_amount"
+    ],
+    "modulation_32_bipolar": [
+        "settings",
+        "modulation_32_bipolar"
+    ],
+    "modulation_32_bypass": [
+        "settings",
+        "modulation_32_bypass"
+    ],
+    "modulation_32_power": [
+        "settings",
+        "modulation_32_power"
+    ],
+    "modulation_32_stereo": [
+        "settings",
+        "modulation_32_stereo"
+    ],
+    "modulation_33_amount": [
+        "settings",
+        "modulation_33_amount"
+    ],
+    "modulation_33_bipolar": [
+        "settings",
+        "modulation_33_bipolar"
+    ],
+    "modulation_33_bypass": [
+        "settings",
+        "modulation_33_bypass"
+    ],
+    "modulation_33_power": [
+        "settings",
+        "modulation_33_power"
+    ],
+    "modulation_33_stereo": [
+        "settings",
+        "modulation_33_stereo"
+    ],
+    "modulation_34_amount": [
+        "settings",
+        "modulation_34_amount"
+    ],
+    "modulation_34_bipolar": [
+        "settings",
+        "modulation_34_bipolar"
+    ],
+    "modulation_34_bypass": [
+        "settings",
+        "modulation_34_bypass"
+    ],
+    "modulation_34_power": [
+        "settings",
+        "modulation_34_power"
+    ],
+    "modulation_34_stereo": [
+        "settings",
+        "modulation_34_stereo"
+    ],
+    "modulation_35_amount": [
+        "settings",
+        "modulation_35_amount"
+    ],
+    "modulation_35_bipolar": [
+        "settings",
+        "modulation_35_bipolar"
+    ],
+    "modulation_35_bypass": [
+        "settings",
+        "modulation_35_bypass"
+    ],
+    "modulation_35_power": [
+        "settings",
+        "modulation_35_power"
+    ],
+    "modulation_35_stereo": [
+        "settings",
+        "modulation_35_stereo"
+    ],
+    "modulation_36_amount": [
+        "settings",
+        "modulation_36_amount"
+    ],
+    "modulation_36_bipolar": [
+        "settings",
+        "modulation_36_bipolar"
+    ],
+    "modulation_36_bypass": [
+        "settings",
+        "modulation_36_bypass"
+    ],
+    "modulation_36_power": [
+        "settings",
+        "modulation_36_power"
+    ],
+    "modulation_36_stereo": [
+        "settings",
+        "modulation_36_stereo"
+    ],
+    "modulation_37_amount": [
+        "settings",
+        "modulation_37_amount"
+    ],
+    "modulation_37_bipolar": [
+        "settings",
+        "modulation_37_bipolar"
+    ],
+    "modulation_37_bypass": [
+        "settings",
+        "modulation_37_bypass"
+    ],
+    "modulation_37_power": [
+        "settings",
+        "modulation_37_power"
+    ],
+    "modulation_37_stereo": [
+        "settings",
+        "modulation_37_stereo"
+    ],
+    "modulation_38_amount": [
+        "settings",
+        "modulation_38_amount"
+    ],
+    "modulation_38_bipolar": [
+        "settings",
+        "modulation_38_bipolar"
+    ],
+    "modulation_38_bypass": [
+        "settings",
+        "modulation_38_bypass"
+    ],
+    "modulation_38_power": [
+        "settings",
+        "modulation_38_power"
+    ],
+    "modulation_38_stereo": [
+        "settings",
+        "modulation_38_stereo"
+    ],
+    "modulation_39_amount": [
+        "settings",
+        "modulation_39_amount"
+    ],
+    "modulation_39_bipolar": [
+        "settings",
+        "modulation_39_bipolar"
+    ],
+    "modulation_39_bypass": [
+        "settings",
+        "modulation_39_bypass"
+    ],
+    "modulation_39_power": [
+        "settings",
+        "modulation_39_power"
+    ],
+    "modulation_39_stereo": [
+        "settings",
+        "modulation_39_stereo"
+    ],
+    "modulation_3_amount": [
+        "settings",
+        "modulation_3_amount"
+    ],
+    "modulation_3_bipolar": [
+        "settings",
+        "modulation_3_bipolar"
+    ],
+    "modulation_3_bypass": [
+        "settings",
+        "modulation_3_bypass"
+    ],
+    "modulation_3_power": [
+        "settings",
+        "modulation_3_power"
+    ],
+    "modulation_3_stereo": [
+        "settings",
+        "modulation_3_stereo"
+    ],
+    "modulation_40_amount": [
+        "settings",
+        "modulation_40_amount"
+    ],
+    "modulation_40_bipolar": [
+        "settings",
+        "modulation_40_bipolar"
+    ],
+    "modulation_40_bypass": [
+        "settings",
+        "modulation_40_bypass"
+    ],
+    "modulation_40_power": [
+        "settings",
+        "modulation_40_power"
+    ],
+    "modulation_40_stereo": [
+        "settings",
+        "modulation_40_stereo"
+    ],
+    "modulation_41_amount": [
+        "settings",
+        "modulation_41_amount"
+    ],
+    "modulation_41_bipolar": [
+        "settings",
+        "modulation_41_bipolar"
+    ],
+    "modulation_41_bypass": [
+        "settings",
+        "modulation_41_bypass"
+    ],
+    "modulation_41_power": [
+        "settings",
+        "modulation_41_power"
+    ],
+    "modulation_41_stereo": [
+        "settings",
+        "modulation_41_stereo"
+    ],
+    "modulation_42_amount": [
+        "settings",
+        "modulation_42_amount"
+    ],
+    "modulation_42_bipolar": [
+        "settings",
+        "modulation_42_bipolar"
+    ],
+    "modulation_42_bypass": [
+        "settings",
+        "modulation_42_bypass"
+    ],
+    "modulation_42_power": [
+        "settings",
+        "modulation_42_power"
+    ],
+    "modulation_42_stereo": [
+        "settings",
+        "modulation_42_stereo"
+    ],
+    "modulation_43_amount": [
+        "settings",
+        "modulation_43_amount"
+    ],
+    "modulation_43_bipolar": [
+        "settings",
+        "modulation_43_bipolar"
+    ],
+    "modulation_43_bypass": [
+        "settings",
+        "modulation_43_bypass"
+    ],
+    "modulation_43_power": [
+        "settings",
+        "modulation_43_power"
+    ],
+    "modulation_43_stereo": [
+        "settings",
+        "modulation_43_stereo"
+    ],
+    "modulation_44_amount": [
+        "settings",
+        "modulation_44_amount"
+    ],
+    "modulation_44_bipolar": [
+        "settings",
+        "modulation_44_bipolar"
+    ],
+    "modulation_44_bypass": [
+        "settings",
+        "modulation_44_bypass"
+    ],
+    "modulation_44_power": [
+        "settings",
+        "modulation_44_power"
+    ],
+    "modulation_44_stereo": [
+        "settings",
+        "modulation_44_stereo"
+    ],
+    "modulation_45_amount": [
+        "settings",
+        "modulation_45_amount"
+    ],
+    "modulation_45_bipolar": [
+        "settings",
+        "modulation_45_bipolar"
+    ],
+    "modulation_45_bypass": [
+        "settings",
+        "modulation_45_bypass"
+    ],
+    "modulation_45_power": [
+        "settings",
+        "modulation_45_power"
+    ],
+    "modulation_45_stereo": [
+        "settings",
+        "modulation_45_stereo"
+    ],
+    "modulation_46_amount": [
+        "settings",
+        "modulation_46_amount"
+    ],
+    "modulation_46_bipolar": [
+        "settings",
+        "modulation_46_bipolar"
+    ],
+    "modulation_46_bypass": [
+        "settings",
+        "modulation_46_bypass"
+    ],
+    "modulation_46_power": [
+        "settings",
+        "modulation_46_power"
+    ],
+    "modulation_46_stereo": [
+        "settings",
+        "modulation_46_stereo"
+    ],
+    "modulation_47_amount": [
+        "settings",
+        "modulation_47_amount"
+    ],
+    "modulation_47_bipolar": [
+        "settings",
+        "modulation_47_bipolar"
+    ],
+    "modulation_47_bypass": [
+        "settings",
+        "modulation_47_bypass"
+    ],
+    "modulation_47_power": [
+        "settings",
+        "modulation_47_power"
+    ],
+    "modulation_47_stereo": [
+        "settings",
+        "modulation_47_stereo"
+    ],
+    "modulation_48_amount": [
+        "settings",
+        "modulation_48_amount"
+    ],
+    "modulation_48_bipolar": [
+        "settings",
+        "modulation_48_bipolar"
+    ],
+    "modulation_48_bypass": [
+        "settings",
+        "modulation_48_bypass"
+    ],
+    "modulation_48_power": [
+        "settings",
+        "modulation_48_power"
+    ],
+    "modulation_48_stereo": [
+        "settings",
+        "modulation_48_stereo"
+    ],
+    "modulation_49_amount": [
+        "settings",
+        "modulation_49_amount"
+    ],
+    "modulation_49_bipolar": [
+        "settings",
+        "modulation_49_bipolar"
+    ],
+    "modulation_49_bypass": [
+        "settings",
+        "modulation_49_bypass"
+    ],
+    "modulation_49_power": [
+        "settings",
+        "modulation_49_power"
+    ],
+    "modulation_49_stereo": [
+        "settings",
+        "modulation_49_stereo"
+    ],
+    "modulation_4_amount": [
+        "settings",
+        "modulation_4_amount"
+    ],
+    "modulation_4_bipolar": [
+        "settings",
+        "modulation_4_bipolar"
+    ],
+    "modulation_4_bypass": [
+        "settings",
+        "modulation_4_bypass"
+    ],
+    "modulation_4_power": [
+        "settings",
+        "modulation_4_power"
+    ],
+    "modulation_4_stereo": [
+        "settings",
+        "modulation_4_stereo"
+    ],
+    "modulation_50_amount": [
+        "settings",
+        "modulation_50_amount"
+    ],
+    "modulation_50_bipolar": [
+        "settings",
+        "modulation_50_bipolar"
+    ],
+    "modulation_50_bypass": [
+        "settings",
+        "modulation_50_bypass"
+    ],
+    "modulation_50_power": [
+        "settings",
+        "modulation_50_power"
+    ],
+    "modulation_50_stereo": [
+        "settings",
+        "modulation_50_stereo"
+    ],
+    "modulation_51_amount": [
+        "settings",
+        "modulation_51_amount"
+    ],
+    "modulation_51_bipolar": [
+        "settings",
+        "modulation_51_bipolar"
+    ],
+    "modulation_51_bypass": [
+        "settings",
+        "modulation_51_bypass"
+    ],
+    "modulation_51_power": [
+        "settings",
+        "modulation_51_power"
+    ],
+    "modulation_51_stereo": [
+        "settings",
+        "modulation_51_stereo"
+    ],
+    "modulation_52_amount": [
+        "settings",
+        "modulation_52_amount"
+    ],
+    "modulation_52_bipolar": [
+        "settings",
+        "modulation_52_bipolar"
+    ],
+    "modulation_52_bypass": [
+        "settings",
+        "modulation_52_bypass"
+    ],
+    "modulation_52_power": [
+        "settings",
+        "modulation_52_power"
+    ],
+    "modulation_52_stereo": [
+        "settings",
+        "modulation_52_stereo"
+    ],
+    "modulation_53_amount": [
+        "settings",
+        "modulation_53_amount"
+    ],
+    "modulation_53_bipolar": [
+        "settings",
+        "modulation_53_bipolar"
+    ],
+    "modulation_53_bypass": [
+        "settings",
+        "modulation_53_bypass"
+    ],
+    "modulation_53_power": [
+        "settings",
+        "modulation_53_power"
+    ],
+    "modulation_53_stereo": [
+        "settings",
+        "modulation_53_stereo"
+    ],
+    "modulation_54_amount": [
+        "settings",
+        "modulation_54_amount"
+    ],
+    "modulation_54_bipolar": [
+        "settings",
+        "modulation_54_bipolar"
+    ],
+    "modulation_54_bypass": [
+        "settings",
+        "modulation_54_bypass"
+    ],
+    "modulation_54_power": [
+        "settings",
+        "modulation_54_power"
+    ],
+    "modulation_54_stereo": [
+        "settings",
+        "modulation_54_stereo"
+    ],
+    "modulation_55_amount": [
+        "settings",
+        "modulation_55_amount"
+    ],
+    "modulation_55_bipolar": [
+        "settings",
+        "modulation_55_bipolar"
+    ],
+    "modulation_55_bypass": [
+        "settings",
+        "modulation_55_bypass"
+    ],
+    "modulation_55_power": [
+        "settings",
+        "modulation_55_power"
+    ],
+    "modulation_55_stereo": [
+        "settings",
+        "modulation_55_stereo"
+    ],
+    "modulation_56_amount": [
+        "settings",
+        "modulation_56_amount"
+    ],
+    "modulation_56_bipolar": [
+        "settings",
+        "modulation_56_bipolar"
+    ],
+    "modulation_56_bypass": [
+        "settings",
+        "modulation_56_bypass"
+    ],
+    "modulation_56_power": [
+        "settings",
+        "modulation_56_power"
+    ],
+    "modulation_56_stereo": [
+        "settings",
+        "modulation_56_stereo"
+    ],
+    "modulation_57_amount": [
+        "settings",
+        "modulation_57_amount"
+    ],
+    "modulation_57_bipolar": [
+        "settings",
+        "modulation_57_bipolar"
+    ],
+    "modulation_57_bypass": [
+        "settings",
+        "modulation_57_bypass"
+    ],
+    "modulation_57_power": [
+        "settings",
+        "modulation_57_power"
+    ],
+    "modulation_57_stereo": [
+        "settings",
+        "modulation_57_stereo"
+    ],
+    "modulation_58_amount": [
+        "settings",
+        "modulation_58_amount"
+    ],
+    "modulation_58_bipolar": [
+        "settings",
+        "modulation_58_bipolar"
+    ],
+    "modulation_58_bypass": [
+        "settings",
+        "modulation_58_bypass"
+    ],
+    "modulation_58_power": [
+        "settings",
+        "modulation_58_power"
+    ],
+    "modulation_58_stereo": [
+        "settings",
+        "modulation_58_stereo"
+    ],
+    "modulation_59_amount": [
+        "settings",
+        "modulation_59_amount"
+    ],
+    "modulation_59_bipolar": [
+        "settings",
+        "modulation_59_bipolar"
+    ],
+    "modulation_59_bypass": [
+        "settings",
+        "modulation_59_bypass"
+    ],
+    "modulation_59_power": [
+        "settings",
+        "modulation_59_power"
+    ],
+    "modulation_59_stereo": [
+        "settings",
+        "modulation_59_stereo"
+    ],
+    "modulation_5_amount": [
+        "settings",
+        "modulation_5_amount"
+    ],
+    "modulation_5_bipolar": [
+        "settings",
+        "modulation_5_bipolar"
+    ],
+    "modulation_5_bypass": [
+        "settings",
+        "modulation_5_bypass"
+    ],
+    "modulation_5_power": [
+        "settings",
+        "modulation_5_power"
+    ],
+    "modulation_5_stereo": [
+        "settings",
+        "modulation_5_stereo"
+    ],
+    "modulation_60_amount": [
+        "settings",
+        "modulation_60_amount"
+    ],
+    "modulation_60_bipolar": [
+        "settings",
+        "modulation_60_bipolar"
+    ],
+    "modulation_60_bypass": [
+        "settings",
+        "modulation_60_bypass"
+    ],
+    "modulation_60_power": [
+        "settings",
+        "modulation_60_power"
+    ],
+    "modulation_60_stereo": [
+        "settings",
+        "modulation_60_stereo"
+    ],
+    "modulation_61_amount": [
+        "settings",
+        "modulation_61_amount"
+    ],
+    "modulation_61_bipolar": [
+        "settings",
+        "modulation_61_bipolar"
+    ],
+    "modulation_61_bypass": [
+        "settings",
+        "modulation_61_bypass"
+    ],
+    "modulation_61_power": [
+        "settings",
+        "modulation_61_power"
+    ],
+    "modulation_61_stereo": [
+        "settings",
+        "modulation_61_stereo"
+    ],
+    "modulation_62_amount": [
+        "settings",
+        "modulation_62_amount"
+    ],
+    "modulation_62_bipolar": [
+        "settings",
+        "modulation_62_bipolar"
+    ],
+    "modulation_62_bypass": [
+        "settings",
+        "modulation_62_bypass"
+    ],
+    "modulation_62_power": [
+        "settings",
+        "modulation_62_power"
+    ],
+    "modulation_62_stereo": [
+        "settings",
+        "modulation_62_stereo"
+    ],
+    "modulation_63_amount": [
+        "settings",
+        "modulation_63_amount"
+    ],
+    "modulation_63_bipolar": [
+        "settings",
+        "modulation_63_bipolar"
+    ],
+    "modulation_63_bypass": [
+        "settings",
+        "modulation_63_bypass"
+    ],
+    "modulation_63_power": [
+        "settings",
+        "modulation_63_power"
+    ],
+    "modulation_63_stereo": [
+        "settings",
+        "modulation_63_stereo"
+    ],
+    "modulation_64_amount": [
+        "settings",
+        "modulation_64_amount"
+    ],
+    "modulation_64_bipolar": [
+        "settings",
+        "modulation_64_bipolar"
+    ],
+    "modulation_64_bypass": [
+        "settings",
+        "modulation_64_bypass"
+    ],
+    "modulation_64_power": [
+        "settings",
+        "modulation_64_power"
+    ],
+    "modulation_64_stereo": [
+        "settings",
+        "modulation_64_stereo"
+    ],
+    "modulation_6_amount": [
+        "settings",
+        "modulation_6_amount"
+    ],
+    "modulation_6_bipolar": [
+        "settings",
+        "modulation_6_bipolar"
+    ],
+    "modulation_6_bypass": [
+        "settings",
+        "modulation_6_bypass"
+    ],
+    "modulation_6_power": [
+        "settings",
+        "modulation_6_power"
+    ],
+    "modulation_6_stereo": [
+        "settings",
+        "modulation_6_stereo"
+    ],
+    "modulation_7_amount": [
+        "settings",
+        "modulation_7_amount"
+    ],
+    "modulation_7_bipolar": [
+        "settings",
+        "modulation_7_bipolar"
+    ],
+    "modulation_7_bypass": [
+        "settings",
+        "modulation_7_bypass"
+    ],
+    "modulation_7_power": [
+        "settings",
+        "modulation_7_power"
+    ],
+    "modulation_7_stereo": [
+        "settings",
+        "modulation_7_stereo"
+    ],
+    "modulation_8_amount": [
+        "settings",
+        "modulation_8_amount"
+    ],
+    "modulation_8_bipolar": [
+        "settings",
+        "modulation_8_bipolar"
+    ],
+    "modulation_8_bypass": [
+        "settings",
+        "modulation_8_bypass"
+    ],
+    "modulation_8_power": [
+        "settings",
+        "modulation_8_power"
+    ],
+    "modulation_8_stereo": [
+        "settings",
+        "modulation_8_stereo"
+    ],
+    "modulation_9_amount": [
+        "settings",
+        "modulation_9_amount"
+    ],
+    "modulation_9_bipolar": [
+        "settings",
+        "modulation_9_bipolar"
+    ],
+    "modulation_9_bypass": [
+        "settings",
+        "modulation_9_bypass"
+    ],
+    "modulation_9_power": [
+        "settings",
+        "modulation_9_power"
+    ],
+    "modulation_9_stereo": [
+        "settings",
+        "modulation_9_stereo"
+    ],
+    "mpe_enabled": [
+        "settings",
+        "mpe_enabled"
+    ],
+    "osc_1_destination": [
+        "settings",
+        "osc_1_destination"
+    ],
+    "osc_1_detune_power": [
+        "settings",
+        "osc_1_detune_power"
+    ],
+    "osc_1_detune_range": [
+        "settings",
+        "osc_1_detune_range"
+    ],
+    "osc_1_distortion_amount": [
+        "settings",
+        "osc_1_distortion_amount"
+    ],
+    "osc_1_distortion_phase": [
+        "settings",
+        "osc_1_distortion_phase"
+    ],
+    "osc_1_distortion_spread": [
+        "settings",
+        "osc_1_distortion_spread"
+    ],
+    "osc_1_distortion_type": [
+        "settings",
+        "osc_1_distortion_type"
+    ],
+    "osc_1_frame_spread": [
+        "settings",
+        "osc_1_frame_spread"
+    ],
+    "osc_1_level": [
+        "settings",
+        "osc_1_level"
+    ],
+    "osc_1_midi_track": [
+        "settings",
+        "osc_1_midi_track"
+    ],
+    "osc_1_on": [
+        "settings",
+        "osc_1_on"
+    ],
+    "osc_1_pan": [
+        "settings",
+        "osc_1_pan"
+    ],
+    "osc_1_phase": [
+        "settings",
+        "osc_1_phase"
+    ],
+    "osc_1_random_phase": [
+        "settings",
+        "osc_1_random_phase"
+    ],
+    "osc_1_smooth_interpolation": [
+        "settings",
+        "osc_1_smooth_interpolation"
+    ],
+    "osc_1_spectral_morph_amount": [
+        "settings",
+        "osc_1_spectral_morph_amount"
+    ],
+    "osc_1_spectral_morph_spread": [
+        "settings",
+        "osc_1_spectral_morph_spread"
+    ],
+    "osc_1_spectral_morph_type": [
+        "settings",
+        "osc_1_spectral_morph_type"
+    ],
+    "osc_1_spectral_unison": [
+        "settings",
+        "osc_1_spectral_unison"
+    ],
+    "osc_1_stack_style": [
+        "settings",
+        "osc_1_stack_style"
+    ],
+    "osc_1_stereo_spread": [
+        "settings",
+        "osc_1_stereo_spread"
+    ],
+    "osc_1_transpose": [
+        "settings",
+        "osc_1_transpose"
+    ],
+    "osc_1_transpose_quantize": [
+        "settings",
+        "osc_1_transpose_quantize"
+    ],
+    "osc_1_tune": [
+        "settings",
+        "osc_1_tune"
+    ],
+    "osc_1_unison_blend": [
+        "settings",
+        "osc_1_unison_blend"
+    ],
+    "osc_1_unison_detune": [
+        "settings",
+        "osc_1_unison_detune"
+    ],
+    "osc_1_unison_voices": [
+        "settings",
+        "osc_1_unison_voices"
+    ],
+    "osc_1_view_2d": [
+        "settings",
+        "osc_1_view_2d"
+    ],
+    "osc_1_wave_frame": [
+        "settings",
+        "osc_1_wave_frame"
+    ],
+    "osc_2_destination": [
+        "settings",
+        "osc_2_destination"
+    ],
+    "osc_2_detune_power": [
+        "settings",
+        "osc_2_detune_power"
+    ],
+    "osc_2_detune_range": [
+        "settings",
+        "osc_2_detune_range"
+    ],
+    "osc_2_distortion_amount": [
+        "settings",
+        "osc_2_distortion_amount"
+    ],
+    "osc_2_distortion_phase": [
+        "settings",
+        "osc_2_distortion_phase"
+    ],
+    "osc_2_distortion_spread": [
+        "settings",
+        "osc_2_distortion_spread"
+    ],
+    "osc_2_distortion_type": [
+        "settings",
+        "osc_2_distortion_type"
+    ],
+    "osc_2_frame_spread": [
+        "settings",
+        "osc_2_frame_spread"
+    ],
+    "osc_2_level": [
+        "settings",
+        "osc_2_level"
+    ],
+    "osc_2_midi_track": [
+        "settings",
+        "osc_2_midi_track"
+    ],
+    "osc_2_on": [
+        "settings",
+        "osc_2_on"
+    ],
+    "osc_2_pan": [
+        "settings",
+        "osc_2_pan"
+    ],
+    "osc_2_phase": [
+        "settings",
+        "osc_2_phase"
+    ],
+    "osc_2_random_phase": [
+        "settings",
+        "osc_2_random_phase"
+    ],
+    "osc_2_smooth_interpolation": [
+        "settings",
+        "osc_2_smooth_interpolation"
+    ],
+    "osc_2_spectral_morph_amount": [
+        "settings",
+        "osc_2_spectral_morph_amount"
+    ],
+    "osc_2_spectral_morph_spread": [
+        "settings",
+        "osc_2_spectral_morph_spread"
+    ],
+    "osc_2_spectral_morph_type": [
+        "settings",
+        "osc_2_spectral_morph_type"
+    ],
+    "osc_2_spectral_unison": [
+        "settings",
+        "osc_2_spectral_unison"
+    ],
+    "osc_2_stack_style": [
+        "settings",
+        "osc_2_stack_style"
+    ],
+    "osc_2_stereo_spread": [
+        "settings",
+        "osc_2_stereo_spread"
+    ],
+    "osc_2_transpose": [
+        "settings",
+        "osc_2_transpose"
+    ],
+    "osc_2_transpose_quantize": [
+        "settings",
+        "osc_2_transpose_quantize"
+    ],
+    "osc_2_tune": [
+        "settings",
+        "osc_2_tune"
+    ],
+    "osc_2_unison_blend": [
+        "settings",
+        "osc_2_unison_blend"
+    ],
+    "osc_2_unison_detune": [
+        "settings",
+        "osc_2_unison_detune"
+    ],
+    "osc_2_unison_voices": [
+        "settings",
+        "osc_2_unison_voices"
+    ],
+    "osc_2_view_2d": [
+        "settings",
+        "osc_2_view_2d"
+    ],
+    "osc_2_wave_frame": [
+        "settings",
+        "osc_2_wave_frame"
+    ],
+    "osc_3_destination": [
+        "settings",
+        "osc_3_destination"
+    ],
+    "osc_3_detune_power": [
+        "settings",
+        "osc_3_detune_power"
+    ],
+    "osc_3_detune_range": [
+        "settings",
+        "osc_3_detune_range"
+    ],
+    "osc_3_distortion_amount": [
+        "settings",
+        "osc_3_distortion_amount"
+    ],
+    "osc_3_distortion_phase": [
+        "settings",
+        "osc_3_distortion_phase"
+    ],
+    "osc_3_distortion_spread": [
+        "settings",
+        "osc_3_distortion_spread"
+    ],
+    "osc_3_distortion_type": [
+        "settings",
+        "osc_3_distortion_type"
+    ],
+    "osc_3_frame_spread": [
+        "settings",
+        "osc_3_frame_spread"
+    ],
+    "osc_3_level": [
+        "settings",
+        "osc_3_level"
+    ],
+    "osc_3_midi_track": [
+        "settings",
+        "osc_3_midi_track"
+    ],
+    "osc_3_on": [
+        "settings",
+        "osc_3_on"
+    ],
+    "osc_3_pan": [
+        "settings",
+        "osc_3_pan"
+    ],
+    "osc_3_phase": [
+        "settings",
+        "osc_3_phase"
+    ],
+    "osc_3_random_phase": [
+        "settings",
+        "osc_3_random_phase"
+    ],
+    "osc_3_smooth_interpolation": [
+        "settings",
+        "osc_3_smooth_interpolation"
+    ],
+    "osc_3_spectral_morph_amount": [
+        "settings",
+        "osc_3_spectral_morph_amount"
+    ],
+    "osc_3_spectral_morph_spread": [
+        "settings",
+        "osc_3_spectral_morph_spread"
+    ],
+    "osc_3_spectral_morph_type": [
+        "settings",
+        "osc_3_spectral_morph_type"
+    ],
+    "osc_3_spectral_unison": [
+        "settings",
+        "osc_3_spectral_unison"
+    ],
+    "osc_3_stack_style": [
+        "settings",
+        "osc_3_stack_style"
+    ],
+    "osc_3_stereo_spread": [
+        "settings",
+        "osc_3_stereo_spread"
+    ],
+    "osc_3_transpose": [
+        "settings",
+        "osc_3_transpose"
+    ],
+    "osc_3_transpose_quantize": [
+        "settings",
+        "osc_3_transpose_quantize"
+    ],
+    "osc_3_tune": [
+        "settings",
+        "osc_3_tune"
+    ],
+    "osc_3_unison_blend": [
+        "settings",
+        "osc_3_unison_blend"
+    ],
+    "osc_3_unison_detune": [
+        "settings",
+        "osc_3_unison_detune"
+    ],
+    "osc_3_unison_voices": [
+        "settings",
+        "osc_3_unison_voices"
+    ],
+    "osc_3_view_2d": [
+        "settings",
+        "osc_3_view_2d"
+    ],
+    "osc_3_wave_frame": [
+        "settings",
+        "osc_3_wave_frame"
+    ],
+    "oversampling": [
+        "settings",
+        "oversampling"
+    ],
+    "phaser_blend": [
+        "settings",
+        "phaser_blend"
+    ],
+    "phaser_center": [
+        "settings",
+        "phaser_center"
+    ],
+    "phaser_dry_wet": [
+        "settings",
+        "phaser_dry_wet"
+    ],
+    "phaser_feedback": [
+        "settings",
+        "phaser_feedback"
+    ],
+    "phaser_frequency": [
+        "settings",
+        "phaser_frequency"
+    ],
+    "phaser_mod_depth": [
+        "settings",
+        "phaser_mod_depth"
+    ],
+    "phaser_on": [
+        "settings",
+        "phaser_on"
+    ],
+    "phaser_phase_offset": [
+        "settings",
+        "phaser_phase_offset"
+    ],
+    "phaser_sync": [
+        "settings",
+        "phaser_sync"
+    ],
+    "phaser_tempo": [
+        "settings",
+        "phaser_tempo"
+    ],
+    "pitch_bend_range": [
+        "settings",
+        "pitch_bend_range"
+    ],
+    "pitch_wheel": [
+        "settings",
+        "pitch_wheel"
+    ],
+    "polyphony": [
+        "settings",
+        "polyphony"
+    ],
+    "portamento_force": [
+        "settings",
+        "portamento_force"
+    ],
+    "portamento_scale": [
+        "settings",
+        "portamento_scale"
+    ],
+    "portamento_slope": [
+        "settings",
+        "portamento_slope"
+    ],
+    "portamento_time": [
+        "settings",
+        "portamento_time"
+    ],
+    "random_1_frequency": [
+        "settings",
+        "random_1_frequency"
+    ],
+    "random_1_keytrack_transpose": [
+        "settings",
+        "random_1_keytrack_transpose"
+    ],
+    "random_1_keytrack_tune": [
+        "settings",
+        "random_1_keytrack_tune"
+    ],
+    "random_1_stereo": [
+        "settings",
+        "random_1_stereo"
+    ],
+    "random_1_style": [
+        "settings",
+        "random_1_style"
+    ],
+    "random_1_sync": [
+        "settings",
+        "random_1_sync"
+    ],
+    "random_1_sync_type": [
+        "settings",
+        "random_1_sync_type"
+    ],
+    "random_1_tempo": [
+        "settings",
+        "random_1_tempo"
+    ],
+    "random_2_frequency": [
+        "settings",
+        "random_2_frequency"
+    ],
+    "random_2_keytrack_transpose": [
+        "settings",
+        "random_2_keytrack_transpose"
+    ],
+    "random_2_keytrack_tune": [
+        "settings",
+        "random_2_keytrack_tune"
+    ],
+    "random_2_stereo": [
+        "settings",
+        "random_2_stereo"
+    ],
+    "random_2_style": [
+        "settings",
+        "random_2_style"
+    ],
+    "random_2_sync": [
+        "settings",
+        "random_2_sync"
+    ],
+    "random_2_sync_type": [
+        "settings",
+        "random_2_sync_type"
+    ],
+    "random_2_tempo": [
+        "settings",
+        "random_2_tempo"
+    ],
+    "random_3_frequency": [
+        "settings",
+        "random_3_frequency"
+    ],
+    "random_3_keytrack_transpose": [
+        "settings",
+        "random_3_keytrack_transpose"
+    ],
+    "random_3_keytrack_tune": [
+        "settings",
+        "random_3_keytrack_tune"
+    ],
+    "random_3_stereo": [
+        "settings",
+        "random_3_stereo"
+    ],
+    "random_3_style": [
+        "settings",
+        "random_3_style"
+    ],
+    "random_3_sync": [
+        "settings",
+        "random_3_sync"
+    ],
+    "random_3_sync_type": [
+        "settings",
+        "random_3_sync_type"
+    ],
+    "random_3_tempo": [
+        "settings",
+        "random_3_tempo"
+    ],
+    "random_4_frequency": [
+        "settings",
+        "random_4_frequency"
+    ],
+    "random_4_keytrack_transpose": [
+        "settings",
+        "random_4_keytrack_transpose"
+    ],
+    "random_4_keytrack_tune": [
+        "settings",
+        "random_4_keytrack_tune"
+    ],
+    "random_4_stereo": [
+        "settings",
+        "random_4_stereo"
+    ],
+    "random_4_style": [
+        "settings",
+        "random_4_style"
+    ],
+    "random_4_sync": [
+        "settings",
+        "random_4_sync"
+    ],
+    "random_4_sync_type": [
+        "settings",
+        "random_4_sync_type"
+    ],
+    "random_4_tempo": [
+        "settings",
+        "random_4_tempo"
+    ],
+    "reverb_chorus_amount": [
+        "settings",
+        "reverb_chorus_amount"
+    ],
+    "reverb_chorus_frequency": [
+        "settings",
+        "reverb_chorus_frequency"
+    ],
+    "reverb_decay_time": [
+        "settings",
+        "reverb_decay_time"
+    ],
+    "reverb_delay": [
+        "settings",
+        "reverb_delay"
+    ],
+    "reverb_dry_wet": [
+        "settings",
+        "reverb_dry_wet"
+    ],
+    "reverb_high_shelf_cutoff": [
+        "settings",
+        "reverb_high_shelf_cutoff"
+    ],
+    "reverb_high_shelf_gain": [
+        "settings",
+        "reverb_high_shelf_gain"
+    ],
+    "reverb_low_shelf_cutoff": [
+        "settings",
+        "reverb_low_shelf_cutoff"
+    ],
+    "reverb_low_shelf_gain": [
+        "settings",
+        "reverb_low_shelf_gain"
+    ],
+    "reverb_on": [
+        "settings",
+        "reverb_on"
+    ],
+    "reverb_pre_high_cutoff": [
+        "settings",
+        "reverb_pre_high_cutoff"
+    ],
+    "reverb_pre_low_cutoff": [
+        "settings",
+        "reverb_pre_low_cutoff"
+    ],
+    "reverb_size": [
+        "settings",
+        "reverb_size"
+    ],
+    "sample_bounce": [
+        "settings",
+        "sample_bounce"
+    ],
+    "sample_destination": [
+        "settings",
+        "sample_destination"
+    ],
+    "sample_keytrack": [
+        "settings",
+        "sample_keytrack"
+    ],
+    "sample_level": [
+        "settings",
+        "sample_level"
+    ],
+    "sample_loop": [
+        "settings",
+        "sample_loop"
+    ],
+    "sample_on": [
+        "settings",
+        "sample_on"
+    ],
+    "sample_pan": [
+        "settings",
+        "sample_pan"
+    ],
+    "sample_random_phase": [
+        "settings",
+        "sample_random_phase"
+    ],
+    "sample_transpose": [
+        "settings",
+        "sample_transpose"
+    ],
+    "sample_transpose_quantize": [
+        "settings",
+        "sample_transpose_quantize"
+    ],
+    "sample_tune": [
+        "settings",
+        "sample_tune"
+    ],
+    "stereo_mode": [
+        "settings",
+        "stereo_mode"
+    ],
+    "stereo_routing": [
+        "settings",
+        "stereo_routing"
+    ],
+    "velocity_track": [
+        "settings",
+        "velocity_track"
+    ],
+    "view_spectrogram": [
+        "settings",
+        "view_spectrogram"
+    ],
+    "voice_amplitude": [
+        "settings",
+        "voice_amplitude"
+    ],
+    "voice_override": [
+        "settings",
+        "voice_override"
+    ],
+    "voice_priority": [
+        "settings",
+        "voice_priority"
+    ],
+    "voice_transpose": [
+        "settings",
+        "voice_transpose"
+    ],
+    "voice_tune": [
+        "settings",
+        "voice_tune"
+    ],
+    "volume": [
+        "settings",
+        "volume"
+    ],
+    "wavetable_1": [
+        "settings",
+        "wavetables",
+        0
+    ],
+    "wavetable_2": [
+        "settings",
+        "wavetables",
+        1
+    ],
+    "wavetable_3": [
+        "settings",
+        "wavetables",
+        2
+    ],
+    "sample":[
+        "settings",
+        "sample"  
+    ],
+    "synth_version": [
+        "synth_version"
+    ]
+}

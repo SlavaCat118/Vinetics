@@ -1,0 +1,3 @@
+import gui
+
+gui.main()
